@@ -6,19 +6,19 @@ A beginner-friendly C++ banking system project built using classes and objects.
 
 ## Current Features
 
-.Login screen
-. Welcome screen
-. Account options menu
-. Add money / deposit
-. Withdraw money
-. Display account balance
-.Exit option
+- Login screen
+-  Welcome screen
+-  Account options menu
+-  Add money / deposit
+-  Withdraw money
+-  Display account balance
+- Exit option
 
 ## Technologies
 
-. C++
-. Object-Oriented Programming (OOP)
-. Classes and Objects
+-  C++
+-  Object-Oriented Programming (OOP)
+-  Classes and Objects
 
 ## Project Status
 
